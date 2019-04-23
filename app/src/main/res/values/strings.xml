@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReadAndWriteSD</string>
+    <string name="file_name">Nombre del archivo:</string>
+    <string name="content">Contenido:</string>
+    <string name="external_storage">External Storage</string>
+    <string name="read">Leer</string>
+    <string name="save">Guardar</string>
+    <string name="save_succes">Archivo guardado con exito</string>
+    <string name="read_success">Archivo leido con exito</string>
+</resources>
